@@ -1,0 +1,3 @@
+CD C:\Users\takah\djangogirls\
+myvenv\Scripts\activate
+python manage.py runserver
